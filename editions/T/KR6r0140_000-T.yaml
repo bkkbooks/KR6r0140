@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6r0140/t/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 續集古今佛道論衡
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T52/T52n2105.xml
+    old_id: T52n2105
+hash: sha256:86ce303367f69db08895d9352fb13f688df097b1a7c7f66dd9309c98a24d2dd4
